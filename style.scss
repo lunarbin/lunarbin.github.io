@@ -145,7 +145,7 @@ div ol:first-of-type {
 }
 
 ol li::marker {
-  font-size: 13.5px;
+  font-size: 13px;
 }
 
 ol ul,
@@ -426,7 +426,7 @@ img {
   justify-content: center;
   align-items: center;
   font-family: "JetBrains Mono";
-  font-size: 13.5px;
+  font-size: 13px;
   user-select: none;
 
   @include mobile {
@@ -564,7 +564,7 @@ table {
 }
 
 table tr {
-  font-size: 13.5px;
+  font-size: 13px;
   margin: 0;
   padding: 0;
 }
@@ -651,7 +651,7 @@ code table {
 }
 
 code table tr {
-    font-size: 13.5px;
+    font-size: 13px;
 }
 
 .copy-code {
