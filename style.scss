@@ -770,72 +770,72 @@ code table tr {
     -moz-osx-font-smoothing: grayscale;
   }
 
-  .cookies-banner--position-right {
-    right: 10px;
-  }
+.cookies-banner--position-right {
+  right: 10px;
+}
 
-  @include mobile {
-    .cookies-banner {
-      display: none !important;
-    }
+@include mobile {
+  .cookies-banner {
+    display: none !important;
   }
+}
 
-  .cookies-banner__body {
-    position: relative;
-    overflow-y: auto;
-    overflow-x: hidden;
-    max-height: 450px;
-    padding: 0 23px;
-    background: #000;
-    color: #ccc;
-    font-size: 12px;
-    line-height: 16px;
-  }
+.cookies-banner__body {
+  position: relative;
+  overflow-y: auto;
+  overflow-x: hidden;
+  max-height: 450px;
+  padding: 0 23px;
+  background: #000;
+  color: #ccc;
+  font-size: 12px;
+  line-height: 16px;
+}
 
-  .cookies-banner__body:before {
-    position: sticky;
-    top: 0;
-    z-index: 1;
-    content: "";
-    display: block;
-    height: 25px;
-    box-shadow: inset 0 5px 10px #000;
-  }
+.cookies-banner__body:before {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  content: "";
+  display: block;
+  height: 25px;
+  box-shadow: inset 0 5px 10px #000;
+}
 
-  .cookies-banner__paragraph {
-    margin: 0 0 16px;
+.cookies-banner__paragraph {
+  margin: 0 0 16px;
+  font-family: 'JetBrains Mono';
+  pre {
     font-family: 'JetBrains Mono';
-    pre {
-      font-family: 'JetBrains Mono';
-      line-height: 1.3;
-      margin: 0 0 16px;
-    }
-    a {
-      color: white;
-    }
+    line-height: 1.3;
+    margin: 0 0 16px;
   }
+  a {
+    color: white;
+  }
+}
 
-  .cookies-banner__close-button {
-    font-family: 'JetBrains Mono' !important;
-    position: absolute;
-    top: 5px;
-    left: 3px;
-    z-index: 1;
-    width: 20px;
-    height: 20px;
-    margin: 0;
-    padding: 0;
-    cursor: pointer;
-    color: #cccbcb;
-    font-size: 12px;
-    border: 0;
-    background: transparent;
-    font-family: inherit;
-  }
+.cookies-banner__close-button {
+  font-family: 'JetBrains Mono' !important;
+  position: absolute;
+  top: 5px;
+  left: 3px;
+  z-index: 1;
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  color: #cccbcb;
+  font-size: 12px;
+  border: 0;
+  background: transparent;
+  font-family: inherit;
+}
 
-  .cookies-banner__close-button:hover {
-    color: #fff;
-  }
+.cookies-banner__close-button:hover {
+  color: #fff;
+}
 
 
 @import "highlights";
