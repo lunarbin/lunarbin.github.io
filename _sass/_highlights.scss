@@ -3,10 +3,6 @@
 div.highlight {
  overflow: unset;
  margin-bottom: 5px;
-
-  @include mobile {
-     margin: 0;
-  }
 }
 
 pre.highlight{
