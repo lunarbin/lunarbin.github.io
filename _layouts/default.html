@@ -130,5 +130,20 @@ html {
   </div>
   <button class="cookies-banner__close-button" onclick="document.getElementById('cookieBanner').remove()">[X]</button>
 </div>
+
+<script>
+window.addEventListener('DOMContentLoaded', () => {
+  const banner = document.getElementById('cookieBanner');
+
+  if (localStorage.getItem('cookieBannerDismissed') !== 'true') {
+    banner.style.display = 'block';
+  }
+
+  document.getElementById('closeCookieBanner').addEventListener('click', () => {
+    localStorage.setItem('cookieBannerDismissed', 'true');
+    banner.remove();
+  });
+});
+</script>
 </body>
 </html>
