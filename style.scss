@@ -451,8 +451,8 @@ img {
   background-size: 300%;
   background-clip: text;
   -webkit-background-clip: text;
-  color: transparent;
-  -webkit-text-fill-color: transparent;
+  /* color: transparent; */
+  /* -webkit-text-fill-color: transparent; */
   animation: asciiFlow 5s linear infinite;
 
   @include mobile {
