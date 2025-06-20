@@ -22,7 +22,7 @@ other engineers or researchers might find helpful or interesting.
 specialises in the design of open source `VHF` `RF` modules for use
 in wireless systems. 
 
-> We are Lunar RF Labs©, a radio-frequency research laboratory. <br>
+> We are Lunar RF© Labs, a radio-frequency research laboratory. <br>
 [labs.lunar.sh](https://labs.lunar.sh)
 
 # Lab Status
