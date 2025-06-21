@@ -26,7 +26,7 @@ testing services to clients.
 
 # Lab Status
 
-Currently the `R&D` Lab is well equipped for VHF and lower UHF `RF` development.
+Currently the `R&D` Lab is well equipped for `VHF` and low band `UHF` design.
 
 Equipment List:
 
