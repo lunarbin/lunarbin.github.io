@@ -19,7 +19,7 @@ other engineers or researchers might find helpful or interesting.
 # Lunar RF Labs
 
 `Lunar RF Labs` is a `RF` electronics design laboratory that provides high-quality RF and
-PCB design and prototype services. 
+PCB design and prototyping services. 
 
 > We are Lunar RF© Labs, a radio-frequency design laboratory. <br>
 [labs.lunar.sh](https://labs.lunar.sh)
