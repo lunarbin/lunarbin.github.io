@@ -18,16 +18,15 @@ other engineers or researchers might find helpful or interesting.
 
 # Lunar RF Labs
 
-`Lunar RF Labs` is a `RF` electronics research laboratory that
-specialises in the design of open source `VHF` `RF` modules for use
-in wireless systems. 
+`Lunar RF Labs` is a `RF` electronics design laboratory that provides RF design and
+testing services to clients. 
 
-> We are Lunar RF© Labs, a radio-frequency research laboratory. <br>
+> We are Lunar RF© Labs, a radio-frequency design laboratory. <br>
 [labs.lunar.sh](https://labs.lunar.sh)
 
 # Lab Status
 
-Currently the `R&D` Lab is well equipped for `RF` development in the `VHF` band (`30-300`) `MHz`.
+Currently the `R&D` Lab is well equipped for VHF and lower UHF `RF` development.
 
 Equipment List:
 
